@@ -8,19 +8,10 @@ This tool allows users to enter their birthdate and instantly see their current 
 
 👉 [Click here to try it out](https://laylaabdulsalam.github.io/CodeAlpha_Age_Calculator/)
 
-📸 Screenshot
-
-![Age Calculator Screenshot](https://github.com/LaylaAbdulsalam/CodeAlpha_Age_Calculator/blob/main/age_calculator_background.jpg?raw=true)
-
-
 🔧 Features
-
 ✅ Enter your birthdate and calculate your age in seconds.
-
 📱 Fully responsive design – works on desktop, tablet, and mobile.
-
 🎨 Simple and modern UI.
-
 ⚡ Instant results with JavaScript.
 
 🛠️ Built With
@@ -31,11 +22,8 @@ JavaScript (Vanilla JS)
 📂 Project Structure
 
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 └── age_calculator_background.jpg
 
 🧠 How It Works
@@ -52,7 +40,7 @@ This project is part of the CodeAlpha Internship Program.
 This project is open-source and available under the MIT License.
 
 💌 Connect With Me
-GitHub: @LaylaAbdulsalam
-LinkedIn: (24) Layla Abdulsalam | LinkedIn
+GitHub: [@LaylaAbdulsalam](https://github.com/LaylaAbdulsalam)
+LinkedIn: [LaylaAbdulsalam](https://www.linkedin.com/in/layla-abdulsalam-092847204/)
 
 
