@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1e1c8;
+    background-image: url('age_calculator_background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+@keyframes lightningGlow {
+    0% {
+        box-shadow:
+            0 0 10px rgba(255, 182, 193, 0.8),
+            0 0 20px rgba(255, 182, 193, 0.6),
+            0 0 30px rgba(255, 182, 193, 0.4);
+    }
+
+    50% {
+        box-shadow:
+            0 0 30px rgba(255, 182, 193, 1),
+            0 0 60px rgba(255, 182, 193, 0.8),
+            0 0 90px rgba(255, 182, 193, 0.6);
+    }
+
+    100% {
+        box-shadow:
+            0 0 10px rgba(255, 182, 193, 0.8),
+            0 0 20px rgba(255, 182, 193, 0.6),
+            0 0 30px rgba(255, 182, 193, 0.4);
+    }
+}
+
+
+.container {
+    background: rgb(130, 100, 77);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 2px 0 10px 7px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 350px;
+    margin-bottom: 100px;
+    animation: lightningGlow 2s infinite;
+}
+
+input[type="date"] {
+    padding: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: #2e1b10;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: #563b32;
+}
+
+#result {
+    margin-top: 1rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+}
+
+h1 {
+    color: beige;
+    font-size: 35px;
+}
+
+label {
+    color: bisque;
+}
+
+button,
+#result,
+h1,
+label {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
