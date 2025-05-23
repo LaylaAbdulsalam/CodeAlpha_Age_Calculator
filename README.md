@@ -10,7 +10,7 @@ This tool allows users to enter their birthdate and instantly see their current 
 
 📸 Screenshot
 
-![Age Calculator Screenshot]([https://github.com/user-attachments/assets/b78594c3-f6e6-4fa8-973d-9fda7df283e3](https://github.com/LaylaAbdulsalam/CodeAlpha_Age_Calculator/blob/main/age_calculator_background.jpg?raw=true))
+![Age Calculator Screenshot](https://github.com/LaylaAbdulsalam/CodeAlpha_Age_Calculator/blob/main/age_calculator_background.jpg?raw=true)
 
 
 🔧 Features
@@ -31,8 +31,11 @@ JavaScript (Vanilla JS)
 📂 Project Structure
 
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── age_calculator_background.jpg
 
 🧠 How It Works
