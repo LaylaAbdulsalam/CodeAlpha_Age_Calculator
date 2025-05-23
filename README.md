@@ -8,6 +8,8 @@ This tool allows users to enter their birthdate and instantly see their current 
 
 👉 [Click here to try it out](https://laylaabdulsalam.github.io/CodeAlpha_Age_Calculator/)
 
+
+
 🔧 Features
 
 ✅ Enter your birthdate and calculate your age in seconds.
@@ -18,6 +20,8 @@ This tool allows users to enter their birthdate and instantly see their current 
 
 ⚡ Instant results with JavaScript.
 
+
+
 🛠️ Built With
 
 HTML5
@@ -25,6 +29,8 @@ HTML5
 CSS3
 
 JavaScript (Vanilla JS)
+
+
 
 📂 Project Structure
 
@@ -36,6 +42,8 @@ JavaScript (Vanilla JS)
 
 └── age_calculator_background.jpg
 
+
+
 🧠 How It Works
 
 User selects their date of birth using a date input.
@@ -46,13 +54,19 @@ JavaScript calculates the difference between the current date and DOB.
 
 Displays the result instantly on the screen.
 
+
+
 🙌 Acknowledgements
 
 This project is part of the CodeAlpha Internship Program.
 
+
+
 📄 License
 
 This project is open-source and available under the MIT License.
+
+
 
 💌 Connect With Me
 
