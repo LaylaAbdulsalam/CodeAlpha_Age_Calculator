@@ -10,8 +10,11 @@ This tool allows users to enter their birthdate and instantly see their current 
 
 🔧 Features
 ✅ Enter your birthdate and calculate your age in seconds.
+
 📱 Fully responsive design – works on desktop, tablet, and mobile.
+
 🎨 Simple and modern UI.
+
 ⚡ Instant results with JavaScript.
 
 🛠️ Built With
@@ -20,10 +23,12 @@ CSS3
 JavaScript (Vanilla JS)
 
 📂 Project Structure
-
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── age_calculator_background.jpg
 
 🧠 How It Works
@@ -41,6 +46,7 @@ This project is open-source and available under the MIT License.
 
 💌 Connect With Me
 GitHub: [@LaylaAbdulsalam](https://github.com/LaylaAbdulsalam)
+
 LinkedIn: [LaylaAbdulsalam](https://www.linkedin.com/in/layla-abdulsalam-092847204/)
 
 
